@@ -2,7 +2,7 @@ creativeWorkStatus: Draft
 name: Dynamische Datenstrukturen
 description: ''
 license:
-  id: https://creativecommons.org/licenses/by-sa/3.0/deed.de
+  id: https://opensource.org/license/MIT
 id: https://smatts.github.io/dynamischedatenstrukturen/
 creator:
   - givenName: Lennart
